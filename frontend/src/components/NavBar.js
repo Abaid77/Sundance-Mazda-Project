@@ -95,7 +95,7 @@ export default function NavBar() {
             onClose={menuOnClose}
           >
             <MenuItem onClick={menuOnClose}>Profile</MenuItem>
-            <MenuItem onClick={menuOnClose}>My account</MenuItem>
+            <MenuItem onClick={menuOnClose}>My Account</MenuItem>
           </Menu>
 
           <Box sx={{ flexGrow: 1 }}>
