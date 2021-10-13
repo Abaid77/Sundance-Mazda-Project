@@ -2,9 +2,9 @@
 
 # Sundance Mazda
 
-Sundance Mazda is a project to create a e-commerce site for a single car dealership. The goal of the project was to create a site that allowed a user to buy a vehicle completly online, looked great, and was designed to be responsive for all media types. The manager and owner of Sundance Mazda (Located in Edmonton, AB) were kind enough to allow us to use their dealership for our project.
+Sundance Mazda is a project to create a e-commerce site for a single car dealership. The goal of the project was to create a site that allowed a user to buy a vehicle completely online, looked great, and was designed to be responsive for all media types. The manager and owner of Sundance Mazda (Located in Edmonton, AB) were kind enough to allow us to use their dealership for our project.
 
-This repository was created by building our own skelton using Node, Express and Postgres back end. The front end was created using React and Material UI for styling. Stripe and Google Maps API's are used for payment and map functionality.
+This repository was created by building our own skeleton using Node, Express and Postgres back end. The front end was created using React and Material UI for styling. Stripe and Google Maps API's are used for payment and map functionality.
 
 ## Authors
 
